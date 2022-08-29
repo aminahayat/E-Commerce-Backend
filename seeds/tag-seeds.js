@@ -1,3 +1,3 @@
-const { Product } = require('../models');
+const { Tag } = require('../models');
 
-const productData = [
+const tagData = [
